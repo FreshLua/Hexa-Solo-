@@ -1,0 +1,23 @@
+[
+  {
+    "id": "alpha_server",
+    "name": "Alpha Server Breach",
+    "difficulty": "Easy",
+    "reward_credits": 150,
+    "reward_xp": 80
+  },
+  {
+    "id": "research_node",
+    "name": "Research Node Infiltration",
+    "difficulty": "Medium",
+    "reward_credits": 300,
+    "reward_xp": 200
+  },
+  {
+    "id": "beta_core",
+    "name": "Beta Core Takeover",
+    "difficulty": "Hard",
+    "reward_credits": 600,
+    "reward_xp": 450
+  }
+]

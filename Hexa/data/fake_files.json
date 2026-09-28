@@ -1,0 +1,13 @@
+{
+  "alpha_server": [
+    { "name": "emails.txt", "type": "email dump (simulated)", "value": 50 },
+    { "name": "cards.csv", "type": "credit cards (simulated)", "value": 120 },
+    { "name": "cars.reg", "type": "car registrations (simulated)", "value": 90 }
+  ],
+  "research_node": [
+    { "name": "research.dat", "type": "research notes (simulated)", "value": 70 }
+  ],
+  "beta_core": [
+    { "name": "core.cfg", "type": "system config (simulated)", "value": 150 }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "BruteForce v1",
+    "cost": 200,
+    "bonus": { "hack_power": 1 }
+  },
+  {
+    "name": "PhishKit Pro",
+    "cost": 350,
+    "bonus": { "social_power": 1 }
+  },
+  {
+    "name": "SpoofSuite X",
+    "cost": 500,
+    "bonus": { "stealth": 1 }
+  }
+]

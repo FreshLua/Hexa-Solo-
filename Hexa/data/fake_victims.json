@@ -1,0 +1,5 @@
+[
+  { "name": "AI-Node-01", "risk": 0.2 },
+  { "name": "AI-Node-02", "risk": 0.5 },
+  { "name": "AI-Node-03", "risk": 0.8 }
+]
